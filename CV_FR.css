@@ -19,10 +19,6 @@ div#principale{
     background-color: white;
     width: 700px;
     margin: auto;
-<<<<<<< HEAD
-=======
-    /* transform: translate(-70%); */
->>>>>>> 52a3596d4fdf1125b25937101a492b91bbb866f7
 }
 
 div#div-header{
@@ -197,7 +193,7 @@ div#div-body{
         padding-bottom: 5px;
     }
 
-    /* EXPÉRIENCE PROFESSIONNELLE */
+    /* INTÉRÊTS */
     h1#titre-interets{
         font-size: 14px;
         color: #636162;
